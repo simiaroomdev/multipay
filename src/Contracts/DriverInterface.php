@@ -39,7 +39,7 @@ interface DriverInterface
      *
      * @return RedirectionForm
      */
-    public function pay() : RedirectionForm;
+    public function pay() ;
 
     /**
      * verify the payment

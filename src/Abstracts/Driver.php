@@ -116,7 +116,7 @@ abstract class Driver implements DriverInterface
      *
      * @return RedirectionForm
      */
-    abstract public function pay() : RedirectionForm;
+    abstract public function pay();
 
     /**
      * Verify the payment
